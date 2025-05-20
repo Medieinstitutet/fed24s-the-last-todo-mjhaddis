@@ -50,7 +50,7 @@ för att köra projektet.
 
 
 ## 🏆 **Betyg: VG**
-📌 **Motivering:** Koden uppfyller alla krav för både G och VG. Todo-listan kan visa, markera, och ta bort todos. Användaren kan skapa nya todos, det går att sortera dem, och det är möjligt att visa både klara och oklara uppgifter. Tailwind CSS används för styling. Koden är dessutom välorganiserad och komponentbaserad i enlighet med Reacts bästa praxis.
+📌 **Motivering:** Koden uppfyller alla krav för VG-betyg. Studentens projekt innefattar att man kan skapa, markera som färdig, avmarkera och ta bort todos, samt sortera dem efter skapelsedatum. Det är möjligt att se både klara och oklara uppgifter och flytta dem mellan de två tillstånden. Vidare finns ett formulär för att skapa nya todos dynamiskt. Ett grafiskt ramverk, Tailwind CSS, är implementerat och används effektivt för layout och styling. Koden är välstrukturerad och använder sig av TypeScript vilket förstärker kodsäkerheten.
 
 💡 **Förbättringsförslag:**  
-Det finns inga större förbättringar som behövs för att uppfylla VG-kraven. För framtida förbättringar kan man överväga att lägga till persistens med localStorage eller någon backend-lagringslösning för att spara todo-listan mellan sessioner.
+Inga större förbättringar behövs. Dock kan användarupplevelsen förbättras genom att lägga till fler visuella feedbacks när en åtgärd utförs, som t.ex. animationer när en todo tas bort eller markeras. Ytterligare små förbättringar kan göras i formateringen av CSS-klasser och att lägga till fler testfall för att säkerställa robustheten av funktionaliteten, speciellt när det gäller användarinteraktion.
